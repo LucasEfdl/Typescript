@@ -18,4 +18,4 @@
 
 **JavaScript:** roda em qualquer navegador e no Node.
 
-**TypeScript:** não roda em nenhum navegador, e precisa ser transformado em código javascript entes de ser compilado no Node.
+**TypeScript:** não roda em nenhum navegador, e precisa ser transformado em código javascript antes de ser compilado no Node.
