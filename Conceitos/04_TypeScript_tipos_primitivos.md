@@ -11,4 +11,5 @@ mais utilizados.
     + **String:** Valores de texto, como o "Hello, Word!"
 
 + Além disso, temos também o **Array** que representa as listas de dados.
-    + A sintaxe básica para especificar um array é utilizando os tipos de seus elementos. Por exemplo, string[] ou number[].
+    + A sintaxe básica para especificar um array é utilizando os tipos de seus 
+    elementos. Por exemplo, string[] ou number[].
